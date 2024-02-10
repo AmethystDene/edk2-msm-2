@@ -3,7 +3,7 @@
 function _help(){
 	echo "Usage: build.sh --device DEV"
 	echo
-	echo "Build edk2 for Qualcomm Snapdragon platforms."
+	echo "Build edk2 for Qualcomm Snapdragon platforms"
 	echo
 	echo "Options: "
 	echo "	--device DEV, -d DEV:    build for DEV."
